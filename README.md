@@ -1,6 +1,8 @@
 # An EVE online character voting app
 ## Made with React (Flux), Node.js, MongoDB and Socket.IO
 
+For setting up the development environment, run the following three terminal instances:
+
     gulp
 
     npm start
